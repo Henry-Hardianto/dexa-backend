@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "test1",
+      "datebirth": "20-03-1985",
+      "birthplace": "jakarta",
+      "gender": "male",
+      "idcard": "1234567890123"
+    },
+    {
+      "id": 2,
+      "name": "test2",
+      "datebirth": "20-03-1985",
+      "birthplace": "jakarta",
+      "gender": "female",
+      "idcard": "1234567890123"
+    },
+    {
+      "id": 3,
+      "name": "test3",
+      "datebirth": "20-03-1985",
+      "birthplace": "jakarta",
+      "gender": "female",
+      "idcard": "1234567890123"
+    },
+    {
+      "id": 4,
+      "name": "test4",
+      "datebirth": "20-03-1985",
+      "birthplace": "jakarta",
+      "gender": "male",
+      "idcard": "1234567890123"
+    },
+    {
+      "id": 5,
+      "name": "test5",
+      "datebirth": "20-03-1985",
+      "birthplace": "jakarta",
+      "gender": "female",
+      "idcard": "1234567890123"
+    }
+  ]
+}
